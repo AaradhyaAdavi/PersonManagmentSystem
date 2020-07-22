@@ -1,0 +1,4 @@
+com\pms\service\PersonServiceImplTest.class
+com\pms\dao\Test.class
+com\pms\controllers\PersonControllerTest.class
+com\pms\dao\PersonDAOImplTest.class
